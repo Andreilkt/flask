@@ -1,0 +1,9 @@
+pip list вывод информации
+
+https://cloud.croc.ru/blog/about-technologies/flask-prilozheniya-v-docker/   Фласк в докер
+
+
+docker build -t flask:v2.2 flask/
+
+фласк
+https://www.digitalocean.com/community/tutorials/how-to-make-a-web-application-using-flask-in-python-3-ru
